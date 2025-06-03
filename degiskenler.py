@@ -5,7 +5,7 @@ def user_info():
 
     print(f"Merhaba {name}! {age} yaşındasın ve {birth_year} yılında doğmuşsun.")
 
-# Örnek kullanım:
+
 user_info()
 
 def calculate_numbers():
@@ -20,5 +20,5 @@ def calculate_numbers():
     else:
         print("Bölme işlemi yapılamaz! (Sıfıra bölme hatası)")
 
-# Örnek kullanım:
+
 calculate_numbers()
